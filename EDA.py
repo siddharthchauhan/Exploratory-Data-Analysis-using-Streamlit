@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import matplotlib
 import seaborn as sns
-import plotly.express as px
-import plotly.figure_factory as ff
-import plotly.graph_objects as go
-import time
+#import plotly.express as px
+#import plotly.figure_factory as ff
+#import plotly.graph_objects as go
+#import time
 
 matplotlib.use("Agg")
 
